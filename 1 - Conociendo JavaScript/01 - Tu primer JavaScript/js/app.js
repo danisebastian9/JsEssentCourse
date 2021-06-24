@@ -8,4 +8,4 @@ console.log('Hola consola')
 
 var x = '3.1416'
 
-var public = 'hola'
+var publicData = 'hola'
