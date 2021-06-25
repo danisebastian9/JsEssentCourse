@@ -1,7 +1,7 @@
 "use strict"
 
 //********************************
-//*** Operador negativo
+//*** Operador negativo - Cambiar el signo del valor que se esta almacenando
 
 var datoA = 10;
 var datoB = -datoA;
