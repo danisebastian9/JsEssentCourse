@@ -1,7 +1,7 @@
 "use strict"
 
 //********************************
-//*** Operadores de asignación
+//*** Operadores de asignación / guardar el valor dentro de una variable
 
 var datoA = 10;
 
