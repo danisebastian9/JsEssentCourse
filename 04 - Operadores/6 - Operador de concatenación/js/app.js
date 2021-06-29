@@ -10,25 +10,25 @@ var nombre = "Sergio";
 var apellido = "Brito";
 
 // CONCATENACIÓN DE NÚMEROS
-var concatNumeros = datoA + datoB;
+var concatNumeros = datoA + datoB; // 30
 console.log("Los números "+ datoA +" y "+ datoB +" usados como números concatenados hacen una suma igual a: ", concatNumeros);
 
 
 
 // CONCATENACIÓN DE CADENAS DE TEXTO
-var concatTexto = nombre + " " + apellido ;
+var concatTexto = nombre + " " + apellido ; // Sergio Brito 
 console.log("Los textos "+ nombre +" y "+ apellido +" se unen para formar: ", concatTexto);
 
 
 
 // CONCATENACIÓN DE NÚMEROS COMO TEXTO
-var concatNumComoTxt  = "2"+"8" ;
+var concatNumComoTxt  = "2"+"8" ; // 28
 console.log("Los números 2 y 8 usados como texto se unen para formar: ", concatNumComoTxt);
 
 
 
 // CONCATENACIÓN DE TEXTO Y NUMERO
-var concatTxtNum = datoA + "8" ;
+var concatTxtNum = datoA + "8" ; // 108
 console.log("El número "+ datoA +" usado como número y 8 como texto se unen para formar: ", concatTxtNum);
 
 
