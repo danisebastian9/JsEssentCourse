@@ -14,11 +14,11 @@ var persona = {
 	deporte: 'Correr' // Cadena de texto
 } // Objeto
 
-console.log(typeof datoA);
-console.log(typeof nombre);
-console.log(typeof activo);
+console.log(typeof datoA); // number
+console.log(typeof nombre); // string
+console.log(typeof activo); // boolean
 
-console.log(typeof persona);
+console.log(typeof persona); // object
 
-console.log(typeof persona.edad);
-console.log(typeof persona.deporte);
+console.log(typeof persona.edad); // number
+console.log(typeof persona.deporte); // string
