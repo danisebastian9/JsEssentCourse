@@ -6,6 +6,7 @@
 var datoA = 110;
 var datoB = 20;
 
+// Works similar to if
 
 // Condición ? TRUE : FALSE
 var resultado = datoA > datoB ? "Si es mayor" : "No es mayor";
