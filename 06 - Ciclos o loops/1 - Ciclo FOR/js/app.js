@@ -7,9 +7,9 @@
 // 2 tipos: Definidos e indefinidos
 //
 // Definidos: Ciclo FOR
-//  
+//  Sabemos cuantas veces se va a ejecutar
 // Indefinidos: Ciclo WHILE y Ciclo DO...WHILE
-//
+//  No sabemos cuantas veces se va a ejecutar
 /******************/
 
 
