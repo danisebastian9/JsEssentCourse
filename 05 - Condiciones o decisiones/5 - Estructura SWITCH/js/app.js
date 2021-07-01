@@ -2,6 +2,7 @@
 
 //********************************
 //*** Estructura SWITCH
+// Estructura condicional diferente a If muy util. 
 
 // Evaluación con números
 var edad = 40;
