@@ -29,7 +29,7 @@ switch (edad) {
 
 console.log("El resultado de la evaluación con números es: "+ resultado)
 
-// Evaluación con cadena de texto
+// Evaluación con cadena de texto - Case sensitive
 var producto = "Radio";
 
 switch (producto) {
