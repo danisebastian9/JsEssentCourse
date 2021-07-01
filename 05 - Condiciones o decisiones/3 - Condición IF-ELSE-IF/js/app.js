@@ -1,7 +1,8 @@
 "use strict"
 
 //********************************
-//*** Condición IF-ELSE-IF
+//*** Condición IF-ELSE-IF 
+// Hacer una planeacion adecuada de todo el flujo de datos.
 
 var datoA = 10;
 var datoB = 20;
