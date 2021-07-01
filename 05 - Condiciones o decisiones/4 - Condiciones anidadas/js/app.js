@@ -2,6 +2,7 @@
 
 //********************************
 //*** Condiciones anidadas
+// Evitar anidaciones innecesarias para no dañar el performance de la aplicacion. 
 
 var datoA = 110;
 var datoB = 20;
