@@ -3,6 +3,8 @@
 //********************************0
 //*** Control de ciclos
 // break | continue
+// continue = ignora todo lo que sigue y sigue en el siguiente caso. 
+// break = rompe la instruccion y nos saca del ciclo. 
 
 var contador = 0 
 var cuenta = 0;
