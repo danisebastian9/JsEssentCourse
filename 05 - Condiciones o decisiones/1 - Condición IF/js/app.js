@@ -7,7 +7,7 @@ var datoA = 110;
 var datoB = 20;
 var resultado = "Sin datos";
 
-if( datoA > datoB ){
+if( datoA > datoB ){ // SI el dato a es mayor al dato b entonces: 
     resultado = "La condición se cumplió";
 }
 
