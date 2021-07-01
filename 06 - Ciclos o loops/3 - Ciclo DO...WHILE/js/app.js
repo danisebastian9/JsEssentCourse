@@ -2,6 +2,7 @@
 
 //********************************0
 //*** Ciclo DO..WHILE | Ciclo Indefinido
+// Ejecutar las acciones y luego preguntamos si seguimos ejecutando las acciones
 // Iteración indeterminada o desconocida
 
 
