@@ -3,6 +3,7 @@
 
 //********************************
 //*** Parámetros de una función
+// Cualquier cantidad de parametros
 
 function saludar(nombre, edad) {
 	console.log('Hola: ', nombre);
