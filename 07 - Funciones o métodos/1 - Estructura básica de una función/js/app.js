@@ -2,6 +2,7 @@
 
 //********************************
 //*** Estructura básica de una función
+// Funcion o metodo
 
 function saludar() {
     var saludo = "Hola Mundo";
@@ -9,4 +10,4 @@ function saludar() {
     return saludo;
 }
 
-saludar();
+saludar(); // "Hola Mundo"
