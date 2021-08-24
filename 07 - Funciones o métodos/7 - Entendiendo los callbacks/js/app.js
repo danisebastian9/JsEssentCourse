@@ -1,7 +1,7 @@
 "use strict"
 
 //********************************
-//*** Calllbacks
+//*** Estos son los callbacks de JS
 
 function calcular(datoA, datoB, sumarCB, restarCB) {
     var suma = datoA + datoB
