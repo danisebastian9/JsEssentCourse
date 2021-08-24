@@ -1,7 +1,7 @@
 "use strict"
 
 //********************************
-//*** Función Anonima
+//*** Función Anonima de JavaScript
 // Permite no asignarle nombre a un conjunto de instrucciones sin necesidad de asociarlo
 
 
