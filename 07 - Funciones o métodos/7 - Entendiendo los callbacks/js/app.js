@@ -12,8 +12,8 @@ function calcular(datoA, datoB, sumarCB, restarCB) {
 }
 
 calcular(2, 3, function (resultado) { // Calcular trabaja con la funcion de arriba
-    console.log('Suma', resultado)
-},function (resultado) {
+    console.log('Suma', resultado) // Resultado hace match con sumarCB(suma)
+},function (resultado) { // Este siguiente callback hace match con restarCB(restar)
     console.log('Resta', resultado)
 })
 
