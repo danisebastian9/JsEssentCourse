@@ -11,7 +11,7 @@ function calcular(datoA, datoB, sumarCB, restarCB) {
     restarCB(restar);
 }
 
-calcular(2, 3, function (resultado) {
+calcular(2, 3, function (resultado) { // Calcular trabaja con la funcion de arriba
     console.log('Suma', resultado)
 },function (resultado) {
     console.log('Resta', resultado)
