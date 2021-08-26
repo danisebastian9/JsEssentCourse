@@ -2,6 +2,7 @@
 
 //********************************
 //*** Estos son los callbacks de JS
+// Callbacks para controlar procesos asincronos 
 
 function calcular(datoA, datoB, sumarCB, restarCB) {
     var suma = datoA + datoB
